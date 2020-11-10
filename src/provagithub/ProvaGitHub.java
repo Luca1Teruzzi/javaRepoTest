@@ -18,7 +18,7 @@ public class ProvaGitHub {
         // TODO code application logic here
         int i=0;
         while(true){
-            System.out.println("Ciao"+i);
+            System.out.println("Hey Ciao"+i);
             i++;
         }
     }
